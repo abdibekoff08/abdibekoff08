@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abdibekoff08
+- 👀 I’m interested in javascript and everything is related to frontend development!
+- 🌱 I'm currently studying frontend development.
+- 📫 How to reach me: telegram @temmm950
