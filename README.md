@@ -2,3 +2,4 @@
 - 👀 I’m interested in javascript and everything is related to frontend development!
 - 🌱 I'm currently studying frontend development.
 - 📫 How to reach me: telegram @temmm950
+- HTML, CSS(SCSS,SAAS), JS, TS, Angular :)
